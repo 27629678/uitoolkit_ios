@@ -3,7 +3,7 @@
 //  mail
 //
 //  Created by sddz_yuxiaohua on 14-5-6.
-//  Copyright (c) 2014年 sddz_yuxiaohua (Hangzhou) Network Co., Ltd. All rights reserved.
+//  Copyright © 2015年 X Co., Ltd. All rights reserved.
 //
 
 #import "UIView+FrameAdditions.h"

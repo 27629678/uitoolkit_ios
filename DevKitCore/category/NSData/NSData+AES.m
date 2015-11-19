@@ -3,7 +3,7 @@
 //  mail
 //
 //  Created by Yuheng on 14-8-29.
-//  Copyright (c) 2014年 sddz_yuxiaohua (Hangzhou) Network Co., Ltd. All rights reserved.
+//  Copyright © 2015年 X Co., Ltd. All rights reserved.
 //
 
 #import "NSData+AES.h"
